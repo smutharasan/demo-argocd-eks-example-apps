@@ -1,3 +1,16 @@
+--------------------------------------
+Name: Supriya Mutharasan, Anas 
+
+Class: PRO690
+
+Final Exam Demo
+
+Text Added: ["HELLO WORLD"]
+
+Number of changes: 1
+
+---------------------------------------
+
 # ArgoCD Example Apps
 
 This repository contains example applications for demoing ArgoCD functionality. Feel free
